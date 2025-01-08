@@ -37,7 +37,8 @@ You are part of the distribution planning team of an international clothing reta
 Your distribution network includes several local warehouses that replenish the stores.
 
 <p align="center">
-  ![1](https://github.com/user-attachments/assets/f18ae792-21e8-4f17-9e00-e6db2745e293)
+  
+![image alt](https://github.com/user-attachments/assets/f0e59c5f-9c81-4eea-9128-ddeba409626b)
 
 </p>
 
@@ -52,7 +53,7 @@ This is a manual process in which you need to
 To be efficient, you would like to automate the process of PowerPoint deck creation.
 
 <p align="center">
-  ![2](https://github.com/user-attachments/assets/fbe510e7-eb00-4a14-b35c-b5254463c6c2)
+  
 
 </p>
 
