@@ -54,6 +54,7 @@ To be efficient, you would like to automate the process of PowerPoint deck creat
 
 <p align="center">
   
+![image alt](https://github.com/user-attachments/assets/a8ca57f2-d7df-4a88-a8c8-2e3966818e16)
 
 </p>
 
